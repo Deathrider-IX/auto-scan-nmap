@@ -10,3 +10,8 @@ THIS IS A PREDIFINED NMAP SCANNER                                       SIMPLE B
 THANK YOU FOR USING MY SCRIPT                                             @Deathrider-IX HUB PAGE
 
 TYPE 'help' FOR MORE OPTIONS.
+
+╔═══════════╗
+║ EXAMPLE: 1 scanme.nmap.org
+╚═══════════╝
+ 
