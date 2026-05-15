@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "TYPE 'help' for commands"
+
 cat art.sh
 while true; do 
 	echo
