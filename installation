@@ -1,0 +1,9 @@
+
+
+
+git clone https://github.com/Deathrider-IX/auto-scan-nmap.git
+cd auto-scan-nmap
+chmod +x scan.sh
+
+./scan.sh
+
