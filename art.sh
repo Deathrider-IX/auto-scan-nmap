@@ -7,4 +7,4 @@
 ⠀⠀⠈⠹⣇⢡⢿⡆⠻⣿⣷⠀⢻⣿⣿⣿⣿ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ⣿⣿⣿⣿⣿⣿⣿
 ⠀⠀⠀⢀⣘⠈⢂⠃⣧⡹⣿⣷⡄⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 THIS IS A PREDIFINED NMAP SCANNER                                       SIMPLE BASH SCRIPTING FOR PENETRATION TESTING
-THANK YOU FOR USING MY SCRIPT                                             @WIRED-F GITHUB PAGE
+THANK YOU FOR USING MY SCRIPT                                             @Deathrider-IX HUB PAGE
