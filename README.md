@@ -16,13 +16,7 @@
 ## 📸 Screenshots
 
 ### Scan Overview
-![Scan Overview](Screenshot_2026-05-15_07-16-41.png)
-
-### Detailed Results
-![Detailed Results](Screenshot_2026-05-15_07-15-16.png)
-
-### Additional Details
-![Additional Details](Screenshot_2026-05-15_07-15-16.png)
+![Scan Overview](art.png)
 
 ---
 
