@@ -100,6 +100,11 @@ while true; do
         target="${command#18 }"
 		echo "SYN SCAN : '$target'"
 		nmap "$target" --top-ports 100 -sS -Pn -n --disable-arp-ping --packet-trace
+
+	elif [[ "$command" == "19 "* ]];then
+	    target="${command#19 }"
+		echo "DECOY IP ADDRESS : '$target'"
+		nmap "$target" --top-ports 100 -sS -Pn -n --disable-arp-ping --packet-trace -D RND:5
 	
 
 	elif [[ "$command" == "whois "* ]];then
@@ -150,6 +155,7 @@ while true; do
     echo " 16 <target>           — Malware scripts"
 	echo " 17 <target>           —SYN SCAN"
 	echo " 18 <target>           —ACK SCAN"
+	echo " 19 <target>           —DECOY"
 	
     echo
     echo "  whois <target>        — Whois lookup"
