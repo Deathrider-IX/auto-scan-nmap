@@ -90,6 +90,17 @@ while true; do
 		target="${command#16 }"
 		echo "MALWARE: '$target'"
 		nmap "$target" -sV -p- --script malware
+		
+	elif [[ "$command" == "17 "* ]];then
+	    target="${command#17 }"
+		echo "ACK SCAN: '$target'"
+		nmap "$target" --top-ports 100 -sA -Pn -n --disable-arp-ping --packet-trace
+
+	elif [[ "$command" == "18 "* ]];then
+        target="${command#18 }"
+		echo "SYN SCAN : '$target'"
+		nmap "$target" --top-ports 100 -sS -Pn -n --disable-arp-ping --packet-trace
+	
 
 	elif [[ "$command" == "whois "* ]];then
 		target="${command#whois }"
@@ -137,6 +148,9 @@ while true; do
     echo " 14 <target>           — Brute force scripts"
     echo " 15 <target>           — Discovery scripts"
     echo " 16 <target>           — Malware scripts"
+	echo " 17 <target>           —SYN SCAN"
+	echo " 18 <target>           —ACK SCAN"
+	
     echo
     echo "  whois <target>        — Whois lookup"
     echo "  headers <target>      — HTTP headers"
