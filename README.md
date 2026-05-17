@@ -18,13 +18,11 @@
 ### Scan Overview
 ![Scan Overview](Screenshot_2026-05-15_07-16-41.png)
 
-<details>
-<summary><b>View Full Screenshot Gallery</b></summary>
-
 ### Detailed Results
 ![Detailed Results](Screenshot_2026-05-15_07-15-16.png)
 
-</details>
+### Additional Details
+![Additional Details](Screenshot_2026-05-15_07-15-16.png)
 
 ---
 
