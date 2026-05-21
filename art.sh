@@ -5,13 +5,9 @@
 ⠀⠊⢫⣿⣏⣿⡌⣼⣄⢫⡌⣿⣿⣿⣿⣿⣦ ╚════██║██║     ██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗ ⣿⣿⣿⣿⣿⣿⣿
 ⠀⠀⠄⢹⢃⢻⣟⠙⣿⣦⠱⢻⣿⣿⣿⣿⣿ ███████║╚██████╗██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║ ⣿⣿⣿⣿⣿⣿⣿
 ⠀⠀⠈⠹⣇⢡⢿⡆⠻⣿⣷⠀⢻⣿⣿⣿⣿ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ ⣿⣿⣿⣿⣿⣿⣿
-⠀⠀⠀⢀⣘⠈⢂⠃⣧⡹⣿⣷⡄⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
-THIS IS A PREDIFINED NMAP SCANNER                                       SIMPLE BASH SCRIPTING FOR PENETRATION TESTING
-THANK YOU FOR USING MY SCRIPT                                             @Deathrider-IX HUB PAGE
+⠀⠀⠀⢀⣘⠈⢂⠃⣧⡹⣿⣷⡄⠙⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿                                      
+@Deathrider-IX HUB PAGE                                     THANK YOU FOR USING MY SCRIPT   
 
-TYPE 'help' FOR MORE OPTIONS.
+                          ᯓᡣ𐭩 EXAMPLE: 1 scanme.nmap.org
 
-╔═══════════╗
-║ EXAMPLE: 1 scanme.nmap.org
-╚═══════════╝
  
